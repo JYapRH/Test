@@ -1,0 +1,14 @@
+#body {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+background-color: #C7E5F0;
+color: #72929D;
+text-align: center;
+}
+
+#content {
+	padding: 10px;
+}
